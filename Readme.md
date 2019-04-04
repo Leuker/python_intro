@@ -2,4 +2,4 @@
 ## Hintergrund
 Dies ist eine Einführung in die Nutzung von pandas und JSON.
 ## Was haben wir getan?!?
-Wir haben mit pandas und JSON gearbeitet.
+Wir haben mit pandas und JSON gearbeitet. Und nun?
